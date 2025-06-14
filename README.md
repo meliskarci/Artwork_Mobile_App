@@ -42,8 +42,6 @@ Jetpack Compose ile tamamen deklaratif bir UI'a sahip olan bu uygulama, arka uç
   <img src="https://github.com/user-attachments/assets/eea08d0a-5454-4728-b3ee-030aaeafd8fc" width="200" />
   <img src="https://github.com/user-attachments/assets/5f173764-d1e9-4654-9ad1-1db85fca7280" width="200" />
   <img src="https://github.com/user-attachments/assets/95a86ed8-2831-4dda-998c-aaf065e59d0c" width="200" />
-  <img src="https://github.com/user-attachments/assets/f6d65166-1387-4ecc-9d23-5f1bf3699fc5" width="200" />
-  <img src="https://github.com/user-attachments/assets/305f008c-e443-4c5e-8d75-13e5cfec9690" width="200" />
   <img src="https://github.com/user-attachments/assets/aab6e9b7-bab6-412c-af8c-7b8aff12bdf2" width="200" />
   <img src="https://github.com/user-attachments/assets/f7c8658b-11b5-44ec-91cb-3cf97df98c78" width="200" />
   <img src="https://github.com/user-attachments/assets/3b856335-ad4e-4f8f-981e-05c66f5ca5a9" width="200" />
