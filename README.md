@@ -36,6 +36,7 @@ Jetpack Compose ile tamamen deklaratif bir UI'a sahip olan bu uygulama, arka uç
 - 🧩 **Jetpack Compose** – Modern Android UI geliştirme.
 - 🗄️ **Supabase** – Arka uç hizmetleri (Kimlik Doğrulama, Veritabanı).
 
+---
 
 ## 📸 Ekran Görüntüleri
 <p align="center">
