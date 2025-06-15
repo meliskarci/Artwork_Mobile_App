@@ -1,4 +1,4 @@
-# 🌍 🏛️ Artwork: Sanat Eseri Keşif Platformu
+# 🌍 Artwork: Sanat Eseri Keşif Platformu
 
 **ArtworkAppwithSupabase**, sanatseverlerin çeşitli eserleri keşfetmelerine, favorilerine eklemelerine ve kişiselleştirilmiş bir deneyim yaşamalarına olanak tanıyan modern bir mobil uygulamadır.  
 Jetpack Compose ile tamamen deklaratif bir UI'a sahip olan bu uygulama, arka uç hizmetleri için **Supabase** platformunu kullanır.
